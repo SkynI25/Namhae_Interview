@@ -3,7 +3,7 @@ layout: post
 title:  "A씨 인터뷰"
 author: Sky (Nomad Coder)
 date:   2020-08-31 20:20:35 +0200
-image: "https://lh3.googleusercontent.com/k2DQb_7i06yerws3okVgwA6qj4ZAJV-ld0K8srKpZr809vS8oLbmSenAiVXrXDMm84hilDMAXIX-BUbZhCzmFNnqZeC0LiBRoEMDDhljTHAX1iVrd06m0y4_-CH-dxk6urLErzt27K4ztAIiVAD9DVbALjI5a_3zsF2QXKdTLMq0DTT9TS3P42wXN1UShIw3Css4Q5uMdLhY3PwzAW83BqEjhz016rWLdGdwMDtwuiresG7rMzTVobCP1VPZA825XhSXUriLJTOUzpx-uoep1QLBJB6_o1HOL5YUIuBte9-xx0Um4IGir-75BMVhR6DDLDoVGcGZMPIC8x7umI6z01qQu60Z-2zxY6O-5QlROUmLLJac3cBu-Kt2RUya-DPlIH4G0htDnvlXYjAcJCKzPJC3cYLLdbTTIpdC_6sbTw0qkBbMUWrzyB9EnszfedfewAduf8m_scC10kUBvFWheY5C7llBhiXcDGrWzlOOxTWAHsT5znQC304ciKE675W9BL9kVYISICNSt9PoxZFjKymoqOQDF-zK6Dcs3WM8UAXFaba6xROzl4wcgxg4Yc4lXo9NpPRkbt1ta9Z1PyKqA_8FoOmVP4MS-1M53eLcpzIYjCNVcH3lki8Rws1zV8D4Pk-26BmbjSZts-Jotk4Z5felty4T8BNpdI990vy86fo9-8O9KPqNb29rvTrJgA=w1263-h920-no?authuser=0"
+image: "https://i.imgur.com/VA0Terf.jpg"
 rating: 3
 description: 
 ---

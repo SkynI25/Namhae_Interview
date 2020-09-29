@@ -3,7 +3,7 @@ layout: post
 title:  "I씨 인터뷰"
 author: Sky
 date:   2020-09-15 20:20:35 +0200
-image: https://lh3.googleusercontent.com/xur0mcEBT5CKuafFYm4ho3TYHUJUgmroYCgJGZY_7WjE02TfboHLlDtVHoJnTN-mpUnBoMsyvvxEJ11bA7cbUgdK_HwgX90n-2KUOSPOpjqNNeTLBNzUrmQ4I_dNQy5g5lgKudKjxx1ur3xndqPQ9soy4MU2WOZqLLCgwe7nG8bdSnTk5CXYMkYOoyfyr-vBJjjENIHpPC3naEwqjbvrEsCoUd-zCH_B-A_p4GHszN-k1Ox6BjwCqWHKp-npGnhICpvT0HrU4D_hNvJOL5lODlVB8gE4PX--oRyiL4kBo22wm5uA6avPV_a55_5Ke6Z0t_gCwJP22TjfX7WRONBBkWvnclzp2827xyteJ7xeIzKlBhmPZ81CEJC38nZ7UWytHRUcn4itJWibnfqNPWHh8-BCxQp9RngehLS5VgHS0heI4T6tCEkChbN9hmNlGgsLmvs0-b49tNldy27aMwf-NVI4kgBNFn1Vtfq1oG3KgBhsX3ucNBgwrMDI3YFsaFrLm-VDfQ1ztDuA3UVTwOSMlFf_21ZRakv96O0tQ-W0MDU60P8M-hu4ziIw1oVAiSPmdL0PDrGr_1dyJZgzYfyd9UuGEpM9MQFv7xEodtzjFGUzV8a3P4Bbfy091rlRgGor7j-Jx-RiuQNbjC_-WhyCRCFCnIV4sgfdqD9O-Q1SUY6XYKSn-zYqeJiCCsfsTA=w515-h920-no?authuser=0
+image: https://i.imgur.com/roRk6fk.jpg
 rating: 4
 description: 
 ---

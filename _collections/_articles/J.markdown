@@ -3,7 +3,7 @@ layout: post
 title:  "J씨 인터뷰"
 author: Sky
 date:   2020-09-15 20:20:35 +0200
-image: https://lh3.googleusercontent.com/KiwPX3djq7pgmXBpTfx-zwq55AvCg_xEHmQgum4pi7CaBb75_0buBk4DCu3w4KDxQtrTNXVy-7zE7Kxk5nj8KLfv3sgip_Et20kqe7Z277N0VohrdRKDrq6dA5Kby3SNJEJct3tIs73Fc2YQjtjgvN-Z6pV-JcPADnqRfq1CuS6roq6U6Uea4UU4zm0nlcXAFDcsL3lcqITVcxIbmcVegTCJ6PzQDI7O5X_HeHehRl6KO-nVkLjTBkXECV4x5C9bCeUrXHm3utDHEsB-Te-aK7FMZF7t82rEFxm-o6vPVLOVNKUa0eT4_7BrcJiwmkfaSOr2ULEqLtiFOywGPAjJXmKgG_ApkEEAldRzWxFzsDWOS-5SnNB9eBH1FK88PB-hQ5ainbqnzzBgWLvpYxt-vh_IQeOmIussOHNipjs9pkmXc8suL54--7rjJU6vbm3O20rT9vRHo2EKd9aVbFptqRPqXij4-yfzmSr-Ar4VjeXW-liewmayOvJbtc9r6FgI7NPLivveXqdlqwmTyhU_VlCecY-imknfFnF2TicSErI5fMY_AAUsa2iQl3x-_0X9q2_clECu82IrIZE1OBg1dIKOuevhExQKFA78OFU0kS-MwpiRw414arqFfJ6woKzXFgn-z8maOuZg--J7rXdH4bk5SZi1XBLwc6txqFQWH5LW8ZL4f4244FDNbRAbQQ=w702-h920-no?authuser=0
+image: https://i.imgur.com/6DdcOaj.jpg
 rating: 4
 description: 
 ---
