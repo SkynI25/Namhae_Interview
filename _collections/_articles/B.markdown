@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "B씨 인터뷰"
+title:  "서울을 떠나 남해에 흠뻑 빠지다"
 author: Sky
 date:   2020-09-01 20:20:35 +0200
 image: https://i.imgur.com/iuj6lDZ.jpg

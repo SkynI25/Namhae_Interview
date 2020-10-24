@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A씨 인터뷰"
+title:  "사람들, 그리고 자연"
 author: Sky (Nomad Coder)
 date:   2020-08-31 20:20:35 +0200
 image: "https://i.imgur.com/VA0Terf.jpg"
