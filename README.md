@@ -5,3 +5,7 @@
 ```
 bundle exec jekyll serve
 ```
+
+## Resources
+### 빙그레 서체
+http://www.bingfont.co.kr/
